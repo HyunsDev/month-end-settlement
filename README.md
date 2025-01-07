@@ -1,7 +1,7 @@
 <p align="center">
     <img src = "./assets/title.png" width = "200px" alt = "혀느현스"/>
 </p>
-<h1>month-end-settlement</h1>
+<h1 align="center">month-end-settlement</h1>
 <h5>매달 올라오는 혀느현스의 월말결산</h5>
 
 > [!NOTE]
